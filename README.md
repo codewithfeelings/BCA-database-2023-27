@@ -12,7 +12,6 @@
 10. 19242723012 \- Ayan Jana  
 11. 19242723013 \- Barsha Mandal  
 12. 19242723014 \- Bhumika Adhikary  
-13. 19242723015 \- Bishwaranjan Das  
 14. 19242723016 \- Chandan Mondal  
 15. 19242723017 \- Charulata Sar  
 16. 19242723018 \- Deep Pattanayak  
